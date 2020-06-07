@@ -5,7 +5,7 @@
 - Thanks to [Pablo Trinidad](https://github.com/pablotrinidad "Pablo Trinidad")
 
 #### Features
-- For Django 2.2.12
+- With Django 2.2.13
 - Works with Python 3.8
 - Work with PostgreSQL 10.5, but customizable.
 - Optimized development and production settings.
@@ -23,21 +23,21 @@
 #### Usage
 Suppose you want to create a Django project. Instead, use this and then edit and generate results. If there are configuration problems send your corrections.
 
-Now run it against this repo:
-
-`$ https://github.com/LhernerRemon`
-
-Warning: This code is in development, we know that nothing is perfect, but it can already be used. I'm improving it.
-
 #### Contributing
 I will be happily accepting pull requests from anyone.
 
 #### Development
+Now run it against this repo:
+`$ https://github.com/LhernerRemon/Codebase_basic_Django`
+and run on your console::
+`$ git clone https://github.com/LhernerRemon/Codebase_basic_Django.git`
 
+Then, to be able to run and start the codebase with Docker:
 ```
 docker-compose build
 docker-compose up
 ```
+Warning: This code is in development, we know that nothing is perfect, but it can already be used. I'm improving it.
 
 #### Collaborators
-Lherner Remón | UNSCH Systems Engineering Student | lherner.remon.27@unsch.edu.pe
+[Lherner Remón](https://github.com/LhernerRemon "Lherner Remón") | UNSCH Systems Engineering Student | lherner.remon.27@unsch.edu.pe
