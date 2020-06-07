@@ -27,12 +27,12 @@ Suppose you want to create a Django project. Instead, use this and then edit and
 I will be happily accepting pull requests from anyone.
 
 #### Development
-Now run it against this repo:
+- Now run it against this repo:
 `$ https://github.com/LhernerRemon/Codebase_basic_Django`
-and run on your console::
+- And run on your console::
 `$ git clone https://github.com/LhernerRemon/Codebase_basic_Django.git`
 
-Then, to be able to run and start the codebase with Docker:
+- Then, to be able to run and start the codebase with Docker:
 ```
 docker-compose build
 docker-compose up
